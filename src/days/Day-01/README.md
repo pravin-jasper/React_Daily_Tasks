@@ -22,7 +22,6 @@ I created a simple profile card using multiple React components.
 
 - React.js
 - JavaScript
-- Tailwind CSS
 - HTML
 
 ## 📁 Files
