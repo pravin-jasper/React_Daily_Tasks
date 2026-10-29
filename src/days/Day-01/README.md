@@ -9,7 +9,7 @@ This is my Day 01 React practice.
 - Functional Components
 - Component Reusability
 - Import and Export
-- Tailwind CSS utility classes
+
 
 ## 🎯 Mini Project
 
