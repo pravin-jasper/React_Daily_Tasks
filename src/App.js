@@ -10,6 +10,7 @@ import Day3 from "./days/Day-03/Day3";
 import Day4 from "./days/Day-04/Day4";
 import Day5 from "./days/Day-05/Day5";
 import Day6 from "./days/Day-06/Day6";
+import Day7 from "./days/Day-07/Day7";
 function App() {
   return (
     <HashRouter>
@@ -23,6 +24,7 @@ function App() {
         <Route path="/day4" element={<Day4 />} />
         <Route path="/day5" element={<Day5 />} />
         <Route path="/day6" element={<Day6 />} />
+        <Route path="/day7/*" element={<Day7 />} />
       </Routes>
 
       <Footer />
